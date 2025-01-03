@@ -1,5 +1,5 @@
 ### Hello !!! 😄
-![Background Image]([URL_TO_YOUR_IMAGE](https://github.com/Mr-Glacier/Mr-Glacier/blob/work/images/glacier.jpg))
+<img src="./images/glacier.jpg" width="100%" style="border-radius: 4px;"/>
 <!--
 **Mr-Glacier/Mr-Glacier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

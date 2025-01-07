@@ -36,6 +36,24 @@
   <img src="./images/springboot.svg" width="10%" alt="springboot">
 </p>
 
+---
+<p align="center" style="line-height: 0;">
+  <img src="./images/tensorflow.svg" width="10%" alt="tensorflow">
+  <span style="padding: 0 5px;">|</span>
+  <img src="./images/pytorch.svg" width="10%" alt="pytorch.svg">
+<!--   <span style="padding: 0 5px;">|</span>
+  <img src="./images/redis.svg" width="10%" alt="redis">
+  <span style="padding: 0 5px;">|</span>
+  <img src="./images/minio.svg" width="10%" alt="minio">
+  <span style="padding: 0 5px;">|</span>
+  <img src="./images/Elasticsearch.svg" width="10%" alt="Elasticsearch">
+  <span style="padding: 0 5px;">|</span>
+  <img src="./images/neo4j.svg" width="10%" alt="neo4j">
+  <span style="padding: 0 5px;">|</span>
+  <img src="./images/springboot.svg" width="10%" alt="springboot"> -->
+</p>
+
+
 ### How to reach me 🌍 : 
 
 [Email](mailto:mrglacier@yeah.net)

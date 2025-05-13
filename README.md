@@ -2,6 +2,8 @@
 
 <img src="./images/glacier1.jpg" alt="Title Image" width="100%" style="border-radius: 10px; display: block; margin-left: auto; margin-right: auto;" />
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2B0EF7&background=1113C800&repeat=false&random=true&width=435&lines=One+DevOps+Engineer" alt="Typing SVG" /></a>
+
 ### Code Tools 🔨 : 
 <p align="center" style="line-height: 0;">
   <img src="./images/java.svg" width="10%" alt="Java">

@@ -27,7 +27,7 @@
           <strong>password.temp.zedayk.com</strong>
         </a>
         <p style="font-size:14px; margin-top:6px; color:#555;">
-          随机密码生成器,杜绝弱密码。
+          随机密码生成器。
         </p>
       </td>
     </tr>

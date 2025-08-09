@@ -12,6 +12,31 @@
 
 ---
 
+### 🌐 网站展示
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="180" style="border:1px solid #0c8cf7; border-radius:12px; padding:12px; background:#f0f8ff;">
+        <a href="https://password.temp.zedayk.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#0c8cf7;">
+          <!-- 🔐 锁图标 SVG -->
+          <svg height="48" width="48" viewBox="0 0 24 24" fill="#0c8cf7" xmlns="http://www.w3.org/2000/svg" style="margin-bottom:6px;">
+            <path d="M12 17a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm6-7h-1V7a5 5 0 0 0-10 0v3H6a2 2 0 0 0-2 2v7a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-7a2 2 0 0 0-2-2zm-8-3a3 3 0 0 1 6 0v3H10V7zm8 12H6v-7h12v7z"/>
+          </svg>
+          <br/>
+          <strong>password.temp.zedayk.com</strong>
+        </a>
+        <p style="font-size:14px; margin-top:6px; color:#555;">
+          随机密码生成器,杜绝弱密码。
+        </p>
+      </td>
+    </tr>
+  </table>
+</p>
+
+
+---
+
 ### 🛠️ Tech Stack
 
 #### 💻 Languages & Frameworks

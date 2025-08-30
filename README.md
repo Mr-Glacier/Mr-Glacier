@@ -69,9 +69,20 @@
 
 <p align="center">
   <a href="mailto:mrglacier@yeah.net">
-    <img src="https://img.shields.io/badge/Email-mrglacier%40yeah.net-blue?style=flat-square&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-mrglacier%40yeah.net-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Mr-Glacier">
+    <img src="https://img.shields.io/badge/GitHub-Glacier-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="tencent://message/?uin=599679911">
+    <img src="https://img.shields.io/badge/QQ-599679911-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white" />
   </a>
 </p>
+
+
+
 
 ---
 

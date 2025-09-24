@@ -21,7 +21,7 @@
         <a href="https://password.temp.zedayk.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#0c8cf7;">
           <img src="./images/icon/safe.png" alt="Password Generator" width="80" style="margin-bottom:10px;" />
           <br/>
-          <strong>password.temp.zedayk.com</strong>
+          <strong>password.etuos.cn/</strong>
         </a>
         <p style="font-size:14px; margin-top:8px; color:#444;">
           🔐 Online random password generator with security in mind.

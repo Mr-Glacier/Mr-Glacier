@@ -18,10 +18,10 @@
   <table>
     <tr>
       <td align="center" width="220" style="border:1px solid #0c8cf7; border-radius:12px; padding:16px; background:#f9fcff;">
-        <a href="https://password.temp.zedayk.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#0c8cf7;">
+        <a href="https://password.etuos.cn/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#0c8cf7;">
           <img src="./images/icon/safe.png" alt="Password Generator" width="80" style="margin-bottom:10px;" />
           <br/>
-          <strong>password.etuos.cn/</strong>
+          <strong>password.etuos.cn</strong>
         </a>
         <p style="font-size:14px; margin-top:8px; color:#444;">
           🔐 Online random password generator with security in mind.
